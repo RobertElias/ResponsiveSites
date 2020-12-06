@@ -1,2 +1,2 @@
 # ResponsiveSites
-Responsive Website Projects
+Responsive Website Projects created using HTML, CSS, JAVASCRIPT
