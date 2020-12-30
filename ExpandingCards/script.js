@@ -4,7 +4,8 @@ console.log(panels[2])
 panels.forEach((panel)=> {
     console.log(panel)
 
-    panel.addEventListener('click', () =>{
+    panel.addEventListener('mouseover', () =>{
+        // you can add 'click' instead of click
         console.log(123)
         removeActiveClasses()
         panel.classList.add('active')
